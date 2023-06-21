@@ -1,0 +1,58 @@
+body{
+    background-image: url(../day-1/images/topography.png);
+    font-family: 'Roboto Mono', monospace;
+    margin: 0%;
+}
+
+.padding{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+h1{
+    margin-top: 6%;
+    font-size: 50px;
+}
+
+.sub{
+    font-size: 20px;
+    font-style: italic;
+    color: #ff0099;
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: large;
+    background-color: #333333;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+
+
+hr.dashed {
+    margin-top: 6%;
+    border-top: 3px dashed #bbb;
+  }
+  
+  .techWiki{
+    margin-top: 6%;
+    text-align: center;
+  }
+
+  .desc{
+    font-weight: bold;
+
+  }
+
+  .topics{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  a{
+    color: #ff0099;
+  }
